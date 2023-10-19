@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+.container {
+    width: 100%;
+    padding: 15px;
+}
+
+.header {
+    background-color: lightseagreen;
+    color: white;
+    padding: 15px;
+}
+
+
+.card {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.card-title {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.barra_1  {
+    background-color: lightseagreen;
+    color: white;
+}
+
+
+.card-text {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.col {
+    color: white;
+    padding: 15px;
+}
+
+.m3 {
+    color: white;
+    padding: 15px;
+}
+
+footer {
+    background-color: lightseagreen;
+    color: white;
+    padding: 15px;
+}
