@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+}
+
+.container {
+    width: 100%;
+    padding: 15px;
+}
+
+.header {
+    background: url(../img/Norte1.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.header .navbar {
+    background-color: transparent !important;
+}
+
+.card {
+    background-color: cyan;
+    color: white;
+    margin: 10px;
+}
+
+.card-title {
+    background-color: cyan;
+    color: white;
+}
+
+.h3 {
+    margin-bottom: 30px;
+}
+
+
+
+
+.card-text {
+    background-color: cyan;
+    color: white;
+}
+
+.col {
+    color: white;
+    padding: 15px;
+}
+
+.m3 {
+    color: white;
+    padding: 15px;
+}
+
+.barra_1  {
+    background-color: cyan;
+    color: white;
+}
+
+footer {
+    background-color: cyan;
+    color: white;
+}
+
